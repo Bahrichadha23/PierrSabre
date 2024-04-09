@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\chath\OneDrive\Bureau\ILU1\POO\workspace\PierrSabre\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2515568576.index
+4039357477.index
+3017071492.index
+3383589769.index
